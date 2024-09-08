@@ -18,12 +18,12 @@ public class Prime_Number {
         }
 	}  if(count ==0)
 	{
-		System.out.println(value+" is a Prime number");
+		System.out.println(value + " is a Prime number");
 		
 	}
 	else
 	{
-		System.out.println(value +"is not a prime number ");
+		System.out.println(value + "is not a prime number ");
 	}
 	}
 }
